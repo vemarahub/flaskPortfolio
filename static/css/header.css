@@ -1,4 +1,5 @@
 body {
+  font-family: 'Press Start 2P', cursive;
   margin: 0;
   padding: 0;
   background: black;
@@ -31,7 +32,6 @@ nav a {
   height: 100%;
   color: #ff7f50; /* Coral color for good contrast */
   text-decoration: none;
-  font-family: Ubuntu, sans-serif;
   font-size: 1.15em;
   font-weight: lighter;
   letter-spacing: 1px;
@@ -92,7 +92,6 @@ nav a:active {
 
 h1 {
   text-align: center;
-  font-family: Ubuntu;
   letter-spacing: 1px;
 }
 
