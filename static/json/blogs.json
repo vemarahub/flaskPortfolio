@@ -1,0 +1,32 @@
+{
+    "MongoDB": [
+        {
+            "title": "Introduction to MongoDB",
+            "link": "https://csrepo.blogspot.com/2019/03/introduction-to-mongo.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "JSON/BSON in MongoDB",
+            "link": "https://csrepo.blogspot.com/2019/03/json-bson.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Starting MongoDB Instance",
+            "link": "https://csrepo.blogspot.com/2019/03/starting-database-in-mongo.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Using Change Streams in Java",
+            "link": "https://www.mongodb.com/developer/languages/java/change-streams-in-java/",
+            "platform": "MongoDB DevCenter"
+        }
+    ],
+    "Progress OpenEdge": [
+        {
+            "title": "Introduction to Progress OpenEdge",
+            "link": "https://rajeshsnair99.medium.com/overview-of-progress-openedge-db-29b3a1677ef6",
+            "platform": "Medium"
+        }
+    ]
+
+}
