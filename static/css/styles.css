@@ -271,3 +271,29 @@ section p {
 .btn:hover {
     background-color: #0056b3;
 }
+
+.menu-toggle {
+    display: none;
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.social-icon {
+    color: #333;
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.social-icon:hover {
+    color: #ff7f50;
+}
