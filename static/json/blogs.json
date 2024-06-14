@@ -1,442 +1,438 @@
-
-
 {
-  "MongoDB": [
-    {
-      "title": "Introduction to MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/introduction-to-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "JSON/BSON in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/json-bson.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Starting MongoDB Instance",
-      "link": "https://csrepo.blogspot.com/2019/03/starting-database-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Importing Data into MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/importing-data-into-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Querying Data in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/querying-data-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Operators in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/operators-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "CRUD Operations in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/crud-operations-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Database Commands in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/database-commands-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "MongoDB Ops Manager",
-      "link": "https://csrepo.blogspot.com/2019/03/mongo-ops-manager.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Storage Engines in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/storage-engines-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Indexes in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/indexes-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Explain Plan in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/explain-plan-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Profiler in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/profiler-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "GridFS in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/gridfs-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Recovering Data in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/recovering-data-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Replication Basics in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/replication-basics-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Replication Steps in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/replication-steps-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Configuration and Arbiter in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/configuration-and-arbiter-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Sharding Basics in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/sharding-basics-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Sharding Steps in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/sharding-steps-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Sharding JavaScript in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/sharding-javascript-in-mongo.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Security Overview in MongoDB",
-      "link": "https://csrepo.blogspot.com/2019/03/security-overview-in-mongo.html",
-      "platform": "Blogspot"
-    }
-  ],
-  "Progress": [
-    {
-      "title": "Basic Unix commands for Progress DBA",
-      "link": "https://csrepo.blogspot.com/2019/09/basic-unix-commands-for-progress-dba.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Operating System Resources",
-      "link": "https://csrepo.blogspot.com/2019/09/operating-system-resources.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Progress Database Storage Growth",
-      "link": "https://csrepo.blogspot.com/2019/09/progress-database-storage-growth.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Progress Database Extent Size",
-      "link": "https://csrepo.blogspot.com/2019/09/progress-database-extent-size.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Progress Database Area Report",
-      "link": "https://csrepo.blogspot.com/2019/09/progress-database-area-report.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Starting a Progress Database",
-      "link": "https://csrepo.blogspot.com/2019/09/starting-progress-database.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Stopping a Progress Database",
-      "link": "https://csrepo.blogspot.com/2019/09/stopping-progress-database.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Progress Database Locking Info",
-      "link": "https://csrepo.blogspot.com/2019/09/progress-database-locking-info.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Backing Up a Progress Database",
-      "link": "https://csrepo.blogspot.com/2019/09/backing-up-progress-database.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Adding Extents to Progress Database",
-      "link": "https://csrepo.blogspot.com/2019/09/adding-extents-to-progress-database.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Disconnecting Users from Progress Database",
-      "link": "https://csrepo.blogspot.com/2019/09/disconnecting-users-from-progress-database.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "Parsing Progress Database Log Files",
-      "link": "https://csrepo.blogspot.com/2019/09/parsing-progress-database-log-files.html",
-      "platform": "Blogspot"
-    }
-  ],
-  "AWS": [
-    {
-      "title": "Introduction to AWS",
-      "link": "https://csrepo.blogspot.com/2019/03/introduction-to-aws.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "AWS IAM Overview",
-      "link": "https://csrepo.blogspot.com/2019/03/aws-iam-overview.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "AWS EC2 Overview",
-      "link": "https://csrepo.blogspot.com/2019/03/aws-ec2-overview.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "AWS S3 Overview",
-      "link": "https://csrepo.blogspot.com/2019/03/aws-s3-overview.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "AWS RDS Overview",
-      "link": "https://csrepo.blogspot.com/2019/03/aws-rds-overview.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "AWS VPC Overview",
-      "link": "https://csrepo.blogspot.com/2019/03/aws-vpc-overview.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "AWS Lambda Overview",
-      "link": "https://csrepo.blogspot.com/2019/03/aws-lambda-overview.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "AWS CloudFormation Overview",
-      "link": "https://csrepo.blogspot.com/2019/03/aws-cloudformation-overview.html",
-      "platform": "Blogspot"
-    },
-    {
-      "title": "AWS CloudWatch Overview",
-      "link": "https://csrepo.blogspot.com/2019/03/aws-cloudwatch-overview.html",
-    }
-  ],
-
-  
-    "MySQL": [
-        {
-            "title": "Overview",
-            "link": "https://csrepo.blogspot.com/2019/03/overview.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "MySQL Server",
-            "link": "https://csrepo.blogspot.com/2019/03/mysql-server.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Installation",
-            "link": "https://csrepo.blogspot.com/2019/03/installation.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Windows Installation",
-            "link": "https://csrepo.blogspot.com/2019/03/windows-install.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Unix Installation",
-            "link": "https://csrepo.blogspot.com/2019/03/unix-install.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Configuration",
-            "link": "https://csrepo.blogspot.com/2019/03/configuration.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Multiple Instances",
-            "link": "https://csrepo.blogspot.com/2019/03/multiple-instances.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Components",
-            "link": "https://csrepo.blogspot.com/2019/03/components.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Resource Usage",
-            "link": "https://csrepo.blogspot.com/2019/03/resource-usage.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Command Line",
-            "link": "https://csrepo.blogspot.com/2019/03/command-line.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "GUI Client",
-            "link": "https://csrepo.blogspot.com/2019/03/gui-client.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Queries",
-            "link": "https://csrepo.blogspot.com/2019/03/queries.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "TableSpaces",
-            "link": "https://csrepo.blogspot.com/2019/03/tablespaces.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Security Overview",
-            "link": "https://csrepo.blogspot.com/2019/03/security-overview.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Resetting Root Password",
-            "link": "https://csrepo.blogspot.com/2019/03/resetting-root-password.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Repl Basics",
-            "link": "https://csrepo.blogspot.com/2019/03/repl-basics.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Galera Replication",
-            "link": "https://csrepo.blogspot.com/2019/03/galera-replication.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Multi Master Replication",
-            "link": "https://csrepo.blogspot.com/2019/03/multi-master-replication.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Point in Time Recovery",
-            "link": "https://csrepo.blogspot.com/2019/03/point-in-time-recovery.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "NDB Cluster",
-            "link": "https://csrepo.blogspot.com/2019/03/ndb-cluster.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "MySQL Percona",
-            "link": "https://csrepo.blogspot.com/2019/03/mysql-percona.html",
-            "platform": "Blogspot"
-        }
-    ],
-    "Linux": [
-        {
-            "title": "Overview",
-            "link": "https://csrepo.blogspot.com/2019/03/overview.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Installation",
-            "link": "https://csrepo.blogspot.com/2019/03/installation.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Package Managers",
-            "link": "https://csrepo.blogspot.com/2019/03/package-managers.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Running Services",
-            "link": "https://csrepo.blogspot.com/2019/03/running-services.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Configuring Services",
-            "link": "https://csrepo.blogspot.com/2019/03/configuring-services.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Scheduling Jobs",
-            "link": "https://csrepo.blogspot.com/2019/03/scheduling-jobs.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Users & Groups",
-            "link": "https://csrepo.blogspot.com/2019/03/users-groups.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Configuring Network",
-            "link": "https://csrepo.blogspot.com/2019/03/configuring-network.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Securing Network",
-            "link": "https://csrepo.blogspot.com/2019/03/securing-network.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Shell Scripting",
-            "link": "https://csrepo.blogspot.com/2019/03/shell-scripting.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Kernel Modules",
-            "link": "https://csrepo.blogspot.com/2019/03/kernel-modules.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Monitoring",
-            "link": "https://csrepo.blogspot.com/2019/03/monitoring.html",
-            "platform": "Blogspot"
-        }
-    ],
-    "Programming": [
-        {
-            "title": "Python Basics",
-            "link": "https://csrepo.blogspot.com/2019/03/python-basics.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Advanced Python",
-            "link": "https://csrepo.blogspot.com/2019/03/advanced-python.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Java Basics",
-            "link": "https://csrepo.blogspot.com/2019/03/java-basics.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Advanced Java",
-            "link": "https://csrepo.blogspot.com/2019/03/advanced-java.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "C++ Basics",
-            "link": "https://csrepo.blogspot.com/2019/03/c-basics.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Advanced C++",
-            "link": "https://csrepo.blogspot.com/2019/03/advanced-c.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "JavaScript Basics",
-            "link": "https://csrepo.blogspot.com/2019/03/javascript-basics.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Advanced JavaScript",
-            "link": "https://csrepo.blogspot.com/2019/03/advanced-javascript.html",
-            "platform": "Blogspot"
-        },
-        {
-            "title": "Web Development",
-            "link": "https://csrepo.blogspot.com/2019/03/web-development.html",
-            "platform": "Blogspot"
-        }
-    ]
+   "MongoDB":[
+      {
+         "title":"Introduction to MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/introduction-to-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"JSON/BSON in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/json-bson.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Starting MongoDB Instance",
+         "link":"https://csrepo.blogspot.com/2019/03/starting-database-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Importing Data into MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/importing-data-into-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Querying Data in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/querying-data-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Operators in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/operators-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"CRUD Operations in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/crud-operations-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Database Commands in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/database-commands-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"MongoDB Ops Manager",
+         "link":"https://csrepo.blogspot.com/2019/03/mongo-ops-manager.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Storage Engines in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/storage-engines-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Indexes in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/indexes-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Explain Plan in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/explain-plan-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Profiler in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/profiler-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"GridFS in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/gridfs-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Recovering Data in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/recovering-data-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Replication Basics in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/replication-basics-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Replication Steps in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/replication-steps-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Configuration and Arbiter in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/configuration-and-arbiter-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Sharding Basics in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/sharding-basics-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Sharding Steps in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/sharding-steps-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Sharding JavaScript in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/sharding-javascript-in-mongo.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Security Overview in MongoDB",
+         "link":"https://csrepo.blogspot.com/2019/03/security-overview-in-mongo.html",
+         "platform":"Blogspot"
+      }
+   ],
+   "Progress":[
+      {
+         "title":"Basic Unix commands for Progress DBA",
+         "link":"https://csrepo.blogspot.com/2019/09/basic-unix-commands-for-progress-dba.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Operating System Resources",
+         "link":"https://csrepo.blogspot.com/2019/09/operating-system-resources.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Progress Database Storage Growth",
+         "link":"https://csrepo.blogspot.com/2019/09/progress-database-storage-growth.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Progress Database Extent Size",
+         "link":"https://csrepo.blogspot.com/2019/09/progress-database-extent-size.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Progress Database Area Report",
+         "link":"https://csrepo.blogspot.com/2019/09/progress-database-area-report.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Starting a Progress Database",
+         "link":"https://csrepo.blogspot.com/2019/09/starting-progress-database.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Stopping a Progress Database",
+         "link":"https://csrepo.blogspot.com/2019/09/stopping-progress-database.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Progress Database Locking Info",
+         "link":"https://csrepo.blogspot.com/2019/09/progress-database-locking-info.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Backing Up a Progress Database",
+         "link":"https://csrepo.blogspot.com/2019/09/backing-up-progress-database.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Adding Extents to Progress Database",
+         "link":"https://csrepo.blogspot.com/2019/09/adding-extents-to-progress-database.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Disconnecting Users from Progress Database",
+         "link":"https://csrepo.blogspot.com/2019/09/disconnecting-users-from-progress-database.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Parsing Progress Database Log Files",
+         "link":"https://csrepo.blogspot.com/2019/09/parsing-progress-database-log-files.html",
+         "platform":"Blogspot"
+      }
+   ],
+   "AWS":[
+      {
+         "title":"Introduction to AWS",
+         "link":"https://csrepo.blogspot.com/2019/03/introduction-to-aws.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"AWS IAM Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/aws-iam-overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"AWS EC2 Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/aws-ec2-overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"AWS S3 Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/aws-s3-overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"AWS RDS Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/aws-rds-overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"AWS VPC Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/aws-vpc-overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"AWS Lambda Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/aws-lambda-overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"AWS CloudFormation Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/aws-cloudformation-overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"AWS CloudWatch Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/aws-cloudwatch-overview.html"
+      }
+   ],
+   "MySQL":[
+      {
+         "title":"Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"MySQL Server",
+         "link":"https://csrepo.blogspot.com/2019/03/mysql-server.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Installation",
+         "link":"https://csrepo.blogspot.com/2019/03/installation.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Windows Installation",
+         "link":"https://csrepo.blogspot.com/2019/03/windows-install.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Unix Installation",
+         "link":"https://csrepo.blogspot.com/2019/03/unix-install.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Configuration",
+         "link":"https://csrepo.blogspot.com/2019/03/configuration.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Multiple Instances",
+         "link":"https://csrepo.blogspot.com/2019/03/multiple-instances.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Components",
+         "link":"https://csrepo.blogspot.com/2019/03/components.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Resource Usage",
+         "link":"https://csrepo.blogspot.com/2019/03/resource-usage.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Command Line",
+         "link":"https://csrepo.blogspot.com/2019/03/command-line.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"GUI Client",
+         "link":"https://csrepo.blogspot.com/2019/03/gui-client.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Queries",
+         "link":"https://csrepo.blogspot.com/2019/03/queries.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"TableSpaces",
+         "link":"https://csrepo.blogspot.com/2019/03/tablespaces.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Security Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/security-overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Resetting Root Password",
+         "link":"https://csrepo.blogspot.com/2019/03/resetting-root-password.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Repl Basics",
+         "link":"https://csrepo.blogspot.com/2019/03/repl-basics.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Galera Replication",
+         "link":"https://csrepo.blogspot.com/2019/03/galera-replication.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Multi Master Replication",
+         "link":"https://csrepo.blogspot.com/2019/03/multi-master-replication.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Point in Time Recovery",
+         "link":"https://csrepo.blogspot.com/2019/03/point-in-time-recovery.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"NDB Cluster",
+         "link":"https://csrepo.blogspot.com/2019/03/ndb-cluster.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"MySQL Percona",
+         "link":"https://csrepo.blogspot.com/2019/03/mysql-percona.html",
+         "platform":"Blogspot"
+      }
+   ],
+   "Linux":[
+      {
+         "title":"Overview",
+         "link":"https://csrepo.blogspot.com/2019/03/overview.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Installation",
+         "link":"https://csrepo.blogspot.com/2019/03/installation.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Package Managers",
+         "link":"https://csrepo.blogspot.com/2019/03/package-managers.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Running Services",
+         "link":"https://csrepo.blogspot.com/2019/03/running-services.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Configuring Services",
+         "link":"https://csrepo.blogspot.com/2019/03/configuring-services.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Scheduling Jobs",
+         "link":"https://csrepo.blogspot.com/2019/03/scheduling-jobs.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Users & Groups",
+         "link":"https://csrepo.blogspot.com/2019/03/users-groups.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Configuring Network",
+         "link":"https://csrepo.blogspot.com/2019/03/configuring-network.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Securing Network",
+         "link":"https://csrepo.blogspot.com/2019/03/securing-network.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Shell Scripting",
+         "link":"https://csrepo.blogspot.com/2019/03/shell-scripting.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Kernel Modules",
+         "link":"https://csrepo.blogspot.com/2019/03/kernel-modules.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Monitoring",
+         "link":"https://csrepo.blogspot.com/2019/03/monitoring.html",
+         "platform":"Blogspot"
+      }
+   ],
+   "Programming":[
+      {
+         "title":"Python Basics",
+         "link":"https://csrepo.blogspot.com/2019/03/python-basics.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Advanced Python",
+         "link":"https://csrepo.blogspot.com/2019/03/advanced-python.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Java Basics",
+         "link":"https://csrepo.blogspot.com/2019/03/java-basics.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Advanced Java",
+         "link":"https://csrepo.blogspot.com/2019/03/advanced-java.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"C++ Basics",
+         "link":"https://csrepo.blogspot.com/2019/03/c-basics.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Advanced C++",
+         "link":"https://csrepo.blogspot.com/2019/03/advanced-c.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"JavaScript Basics",
+         "link":"https://csrepo.blogspot.com/2019/03/javascript-basics.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Advanced JavaScript",
+         "link":"https://csrepo.blogspot.com/2019/03/advanced-javascript.html",
+         "platform":"Blogspot"
+      },
+      {
+         "title":"Web Development",
+         "link":"https://csrepo.blogspot.com/2019/03/web-development.html",
+         "platform":"Blogspot"
+      }
+   ]
 }
