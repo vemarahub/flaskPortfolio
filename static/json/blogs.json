@@ -1,32 +1,350 @@
 {
     "MongoDB": [
         {
-            "title": "Introduction to MongoDB",
-            "link": "https://csrepo.blogspot.com/2019/03/introduction-to-mongo.html",
+            "title": "Overview",
+            "link": "https://csrepo.blogspot.com/2019/03/overview.html",
             "platform": "Blogspot"
         },
         {
-            "title": "JSON/BSON in MongoDB",
+            "title": "Windows Installation",
+            "link": "https://csrepo.blogspot.com/2019/03/windows-install.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Unix Installation",
+            "link": "https://csrepo.blogspot.com/2019/03/unix-install.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "VM Installation",
+            "link": "https://csrepo.blogspot.com/2019/03/vm-install.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "JSON BSON",
             "link": "https://csrepo.blogspot.com/2019/03/json-bson.html",
             "platform": "Blogspot"
         },
         {
-            "title": "Starting MongoDB Instance",
-            "link": "https://csrepo.blogspot.com/2019/03/starting-database-in-mongo.html",
+            "title": "Starting DB",
+            "link": "https://csrepo.blogspot.com/2019/03/starting-db.html",
             "platform": "Blogspot"
         },
         {
-            "title": "Using Change Streams in Java",
-            "link": "https://www.mongodb.com/developer/languages/java/change-streams-in-java/",
-            "platform": "MongoDB DevCenter"
+            "title": "Import",
+            "link": "https://csrepo.blogspot.com/2019/03/import.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Queries",
+            "link": "https://csrepo.blogspot.com/2019/03/queries.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Operators",
+            "link": "https://csrepo.blogspot.com/2019/03/operators.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "CRUD",
+            "link": "https://csrepo.blogspot.com/2019/03/crud.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "DB Commands",
+            "link": "https://csrepo.blogspot.com/2019/03/db-commands.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Ops Manager",
+            "link": "https://csrepo.blogspot.com/2019/03/ops-manager.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "MMAPv1",
+            "link": "https://csrepo.blogspot.com/2019/03/mmapv1.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "WiredTiger",
+            "link": "https://csrepo.blogspot.com/2019/03/wiredtiger.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Indexes",
+            "link": "https://csrepo.blogspot.com/2019/03/indexes.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Expain Plan",
+            "link": "https://csrepo.blogspot.com/2019/03/expain-plan.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Profiler",
+            "link": "https://csrepo.blogspot.com/2019/03/profiler.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "GridFS",
+            "link": "https://csrepo.blogspot.com/2019/03/gridfs.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Recover Data",
+            "link": "https://csrepo.blogspot.com/2019/03/recover-data.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Repl Basics",
+            "link": "https://csrepo.blogspot.com/2019/03/repl-basics.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Repl Steps",
+            "link": "https://csrepo.blogspot.com/2019/03/repl-steps.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Config & Arbiter",
+            "link": "https://csrepo.blogspot.com/2019/03/config-arbiter.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Shard Basics",
+            "link": "https://csrepo.blogspot.com/2019/03/shard-basics.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Shard Steps",
+            "link": "https://csrepo.blogspot.com/2019/03/shard-steps.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Shard JS",
+            "link": "https://csrepo.blogspot.com/2019/03/shard-js.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Security Overview",
+            "link": "https://csrepo.blogspot.com/2019/03/security-overview.html",
+            "platform": "Blogspot"
         }
     ],
-    "Progress OpenEdge": [
+    "MySQL": [
         {
-            "title": "Introduction to Progress OpenEdge",
-            "link": "https://rajeshsnair99.medium.com/overview-of-progress-openedge-db-29b3a1677ef6",
-            "platform": "Medium"
+            "title": "Overview",
+            "link": "https://csrepo.blogspot.com/2019/03/overview.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "MySQL Server",
+            "link": "https://csrepo.blogspot.com/2019/03/mysql-server.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Installation",
+            "link": "https://csrepo.blogspot.com/2019/03/installation.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Windows Installation",
+            "link": "https://csrepo.blogspot.com/2019/03/windows-install.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Unix Installation",
+            "link": "https://csrepo.blogspot.com/2019/03/unix-install.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Configuration",
+            "link": "https://csrepo.blogspot.com/2019/03/configuration.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Multiple Instances",
+            "link": "https://csrepo.blogspot.com/2019/03/multiple-instances.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Components",
+            "link": "https://csrepo.blogspot.com/2019/03/components.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Resource Usage",
+            "link": "https://csrepo.blogspot.com/2019/03/resource-usage.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Command Line",
+            "link": "https://csrepo.blogspot.com/2019/03/command-line.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "GUI Client",
+            "link": "https://csrepo.blogspot.com/2019/03/gui-client.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Queries",
+            "link": "https://csrepo.blogspot.com/2019/03/queries.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "TableSpaces",
+            "link": "https://csrepo.blogspot.com/2019/03/tablespaces.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Security Overview",
+            "link": "https://csrepo.blogspot.com/2019/03/security-overview.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Resetting Root Password",
+            "link": "https://csrepo.blogspot.com/2019/03/resetting-root-password.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Repl Basics",
+            "link": "https://csrepo.blogspot.com/2019/03/repl-basics.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Galera Replication",
+            "link": "https://csrepo.blogspot.com/2019/03/galera-replication.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Multi Master Replication",
+            "link": "https://csrepo.blogspot.com/2019/03/multi-master-replication.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Point in Time Recovery",
+            "link": "https://csrepo.blogspot.com/2019/03/point-in-time-recovery.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "NDB Cluster",
+            "link": "https://csrepo.blogspot.com/2019/03/ndb-cluster.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "MySQL Percona",
+            "link": "https://csrepo.blogspot.com/2019/03/mysql-percona.html",
+            "platform": "Blogspot"
+        }
+    ],
+    "Linux": [
+        {
+            "title": "Overview",
+            "link": "https://csrepo.blogspot.com/2019/03/overview.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Installation",
+            "link": "https://csrepo.blogspot.com/2019/03/installation.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Package Managers",
+            "link": "https://csrepo.blogspot.com/2019/03/package-managers.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Running Services",
+            "link": "https://csrepo.blogspot.com/2019/03/running-services.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Configuring Services",
+            "link": "https://csrepo.blogspot.com/2019/03/configuring-services.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Scheduling Jobs",
+            "link": "https://csrepo.blogspot.com/2019/03/scheduling-jobs.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Users & Groups",
+            "link": "https://csrepo.blogspot.com/2019/03/users-groups.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Configuring Network",
+            "link": "https://csrepo.blogspot.com/2019/03/configuring-network.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Securing Network",
+            "link": "https://csrepo.blogspot.com/2019/03/securing-network.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Shell Scripting",
+            "link": "https://csrepo.blogspot.com/2019/03/shell-scripting.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Kernel Modules",
+            "link": "https://csrepo.blogspot.com/2019/03/kernel-modules.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Monitoring",
+            "link": "https://csrepo.blogspot.com/2019/03/monitoring.html",
+            "platform": "Blogspot"
+        }
+    ],
+    "Programming": [
+        {
+            "title": "Python Basics",
+            "link": "https://csrepo.blogspot.com/2019/03/python-basics.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Advanced Python",
+            "link": "https://csrepo.blogspot.com/2019/03/advanced-python.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Java Basics",
+            "link": "https://csrepo.blogspot.com/2019/03/java-basics.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Advanced Java",
+            "link": "https://csrepo.blogspot.com/2019/03/advanced-java.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "C++ Basics",
+            "link": "https://csrepo.blogspot.com/2019/03/c-basics.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Advanced C++",
+            "link": "https://csrepo.blogspot.com/2019/03/advanced-c.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "JavaScript Basics",
+            "link": "https://csrepo.blogspot.com/2019/03/javascript-basics.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Advanced JavaScript",
+            "link": "https://csrepo.blogspot.com/2019/03/advanced-javascript.html",
+            "platform": "Blogspot"
+        },
+        {
+            "title": "Web Development",
+            "link": "https://csrepo.blogspot.com/2019/03/web-development.html",
+            "platform": "Blogspot"
         }
     ]
-
 }
